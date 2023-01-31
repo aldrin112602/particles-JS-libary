@@ -1,0 +1,11 @@
+{
+  "name": "particles-js",
+  "version": "1.0.0",
+  "description": "A light-weight javascript library to draw 2D graphics interactive particles animation",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["js-libary", "particles-animation"],
+  "author": "Aldrin Caballero",
+  "license": "ISC"
+}
